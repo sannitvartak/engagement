@@ -114,7 +114,7 @@ function Index() {
             <h2 className="text-primary">Pyaar dosti hai</h2>
             <p><strong>Aur dosti mein attendance compulsory hai. ❤️</strong></p>
             <p>Clear your calendars.<br />We've got a forever to celebrate.</p>
-            <p className="footer-note">P.S. Kuch kuch plans cancel karne padenge.<br /><strong>Yeh wala nahi.</strong></p>
+            <p className="footer-note">P.S. Kuch kuch plans cancel karne padenge.<strong> Yeh wala nahi.</strong></p>
           </>}
         </section>
         {slide > 0 && <nav className="slide-navigation" aria-label="Invitation slides">
