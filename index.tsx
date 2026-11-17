@@ -59,7 +59,7 @@ function Index() {
             <div className="heart">♡</div>
             <h1>Well, it's official! 💍</h1>
             <div className="photo-frame">
-              <img src="https://placehold.co/500x600/f1dce1/986b7c?text=Our+Favourite+Photo" alt="Sannit and Saloni photo placeholder" />
+              <img src="/cover-image.jpg" alt="Sannit and Saloni photo placeholder" />
             </div>
             <p>We're making it official, and we'd really love to have you there when we do.</p>
             <p>Because what's a big life update without our favourite people around?</p>
