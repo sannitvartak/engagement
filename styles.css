@@ -250,8 +250,8 @@ p {
 }
 
 .pastel-colour > span:first-child {
-  width: 86%;
-  min-height: 38px;
+  width: 78%;
+  min-height: 34px;
   border: 1px solid rgba(69, 59, 54, 0.12);
   border-radius: 12px;
   box-shadow: 0 2px 6px rgba(69, 59, 54, 0.08);
