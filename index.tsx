@@ -57,7 +57,7 @@ function Index() {
         <section key={slide} className="appear invitation-slide">
           {slide === 0 && <>
             <div className="heart">♡</div>
-            <h1>Well, it's official! 💍</h1>
+            <h1 className="slide-title">Well, it's official! 💍</h1>
             <div className="photo-frame">
               <img src="/cover-image.jpg" alt="Sannit and Saloni photo placeholder" />
             </div>
@@ -78,7 +78,7 @@ function Index() {
           </>}
           {slide === 1 && <>
             {/* <div className="heart">🌸</div>*/}
-            <h1>What colour are you wearing?</h1>
+            <h1 className="slide-title">What colour are you wearing?</h1>
             <p>We've got the gold and black covered.</p>
             <h2 className="text-primary">You bring the pastels.</h2>
             <div className="pastel-palette" aria-label="Pastel shades">
@@ -92,7 +92,7 @@ function Index() {
             <p>P.S. We're not saying you'll be judged.<br />We're saying there will be photographs.</p>
           </>}
           {slide === 2 && <>
-            <h2>Okay, here's the plan 🥂</h2>
+            <h2 className="slide-title">Okay, here's the plan 🥂</h2>
             <p>One date. Two people. A whole lot of celebration.</p>
             <div className="celebration-details">
               <div className="date-details">

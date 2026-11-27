@@ -118,6 +118,10 @@ h2 {
   line-height: 1.2;
 }
 
+.slide-title {
+  font-size: 34px;
+}
+
 p {
   font-family: Montserrat, sans-serif;
   max-width: 540px;
