@@ -111,8 +111,8 @@ function Index() {
                 </div>
               </div>
             </div>
-            <h2 className="text-primary">Pyaar dosti hai</h2>
-            <p><strong>Aur dosti mein attendance compulsory hai. ❤️</strong></p>
+            <h3 className="text-primary">Pyaar dosti hai. Aur dosti mein attendance compulsory hai.❤️</h3>
+            <p><strong></strong></p>
             <p>Clear your calendars.<br />We've got a forever to celebrate.</p>
             <p className="footer-note">P.S. Kuch kuch plans cancel karne padenge.<strong> Yeh wala nahi.</strong></p>
           </>}
