@@ -77,10 +77,10 @@ function Index() {
             <p className="footer-note">P.S. We've already made up our minds. Your answer is just a formality.</p>
           </>}
           {slide === 1 && <>
-            <div className="heart">🌸</div>
+            {/* <div className="heart">🌸</div>*/}
             <h1>What colour are you wearing?</h1>
             <p>We've got the gold and black covered.</p>
-            <h2 className="text-primary">You bring the pastels. 🌸</h2>
+            <h2 className="text-primary">You bring the pastels.</h2>
             <div className="pastel-palette" aria-label="Pastel shades">
               {[
                 ["blush", "Blush"], ["powder-blue", "Powder blue"],
@@ -89,7 +89,7 @@ function Index() {
                 ["soft-green", "Soft green"], ["dusty-rose", "Dusty rose"],
               ].map(([colour, name]) => <div key={colour} className="pastel-colour"><span className={`swatch-${colour}`} /><span className="pastel-label">{name}</span></div>)}
             </div>
-            <p>We're not saying you'll be judged.<br />We're saying there will be photographs.</p>
+            <p>P.S. We're not saying you'll be judged.<br />We're saying there will be photographs.</p>
           </>}
           {slide === 2 && <>
             <h1>Okay, here's the plan 🥂</h1>
