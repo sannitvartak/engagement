@@ -89,7 +89,7 @@ function Index() {
                 ["soft-green", "Soft green"], ["dusty-rose", "Dusty rose"],
               ].map(([colour, name]) => <div key={colour} className="pastel-colour"><span className={`swatch-${colour}`} /><span className="pastel-label">{name}</span></div>)}
             </div>
-            <p>P.S. We're not saying you'll be judged.<br />We're saying there will be photographs.</p>
+            <p className="footer-note">P.S. We're not saying you'll be judged.<br />We're saying there will be photographs.</p>
           </>}
           {slide === 2 && <>
             <h2 className="slide-title">Okay, here's the plan 🥂</h2>
