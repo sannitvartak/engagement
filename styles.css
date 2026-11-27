@@ -314,6 +314,12 @@ p {
   font-size: 1.7rem;
 }
 
+.date-details h4.couple-names {
+  margin: 4px 0;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
 .venue-details h2 {
   margin: 8px 0 0;
   font-size: 1.55rem;
