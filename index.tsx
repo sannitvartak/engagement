@@ -98,8 +98,8 @@ function Index() {
               <div className="date-details">
                 <time dateTime={invitation.date} className="engagement-date">20.12.2026</time>
                 <div className="eyebrow">Sunday</div>
-                <h2 className="couple-names text-primary">Sannit & Saloni</h2>
-                <h4>Are getting engaged!</h4>
+                <h2 className="couple-names text-primary">Saloni & Sannit</h2>
+                <h4 className="couple-names text-primary">are getting engaged!</h4>
               </div>
               <div className="venue-details">
                 <div className="eyebrow">📍 Venue</div>
@@ -114,7 +114,7 @@ function Index() {
             <h4 className="text-primary">Pyaar dosti hai. Aur dosti mein attendance compulsory hai.❤️</h4>
             <p><strong></strong></p>
             <p>Clear your calendars.<br />We've got a forever to celebrate.</p>
-            <p className="footer-note">P.S. Kuch kuch plans cancel karne padenge.<strong> Yeh wala nahi.</strong></p>
+            <p className="footer-note">P.S. Kuch kuch plans cancel karne padenge.<strong> <br />Yeh wala nahi.</strong></p>
           </>}
         </section>
         {slide > 0 && <nav className="slide-navigation" aria-label="Invitation slides">
