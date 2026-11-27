@@ -99,7 +99,7 @@ function Index() {
                 <time dateTime={invitation.date} className="engagement-date">20.12.2026</time>
                 <div className="eyebrow">Sunday</div>
                 <h2 className="couple-names text-primary">Sannit & Saloni</h2>
-                <p><h4>Are getting engaged!</h4></p>
+                <h4>Are getting engaged!</h4>
               </div>
               <div className="venue-details">
                 <div className="eyebrow">📍 Venue</div>
