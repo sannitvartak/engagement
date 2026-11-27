@@ -92,14 +92,14 @@ function Index() {
             <p>P.S. We're not saying you'll be judged.<br />We're saying there will be photographs.</p>
           </>}
           {slide === 2 && <>
-            <h1>Okay, here's the plan 🥂</h1>
+            <h2>Okay, here's the plan 🥂</h2>
             <p>One date. Two people. A whole lot of celebration.</p>
             <div className="celebration-details">
               <div className="date-details">
                 <time dateTime={invitation.date} className="engagement-date">20.12.2026</time>
                 <div className="eyebrow">Sunday</div>
                 <h2 className="couple-names text-primary">Sannit & Saloni</h2>
-                <p>Are getting engaged!</p>
+                <p><h4>Are getting engaged!</h4></p>
               </div>
               <div className="venue-details">
                 <div className="eyebrow">📍 Venue</div>
