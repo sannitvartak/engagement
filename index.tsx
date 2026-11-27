@@ -92,7 +92,7 @@ function Index() {
             <p>P.S. We're not saying you'll be judged.<br />We're saying there will be photographs.</p>
           </>}
           {slide === 2 && <>
-            <h2>Okay, here's the plan 🥂</h2>
+            <h3>Okay, here's the plan 🥂</h3>
             <p>One date. Two people. A whole lot of celebration.</p>
             <div className="celebration-details">
               <div className="date-details">
